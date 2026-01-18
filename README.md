@@ -51,27 +51,8 @@ O curso oferece uma base solida em programacao Java, abordando desde conceitos f
 ## Screenshot
 
 ```
-+---------------------------------------------+
-|         ADIVINHE O NUMERO                   |
-+---------------------------------------------+
-|                                             |
-|     Estou pensando em um numero             |
-|          entre 1 e 5...                     |
-|                                             |
-|     Qual e o seu palpite?                   |
-|                                             |
-|            [    3    ]                      |
-|                                             |
-|          [ TENTAR ]                         |
-|                                             |
-+---------------------------------------------+
-|                                             |
-|     O numero e MAIOR!                       |
-|     Tentativas: 1                           |
-|                                             |
-+---------------------------------------------+
-|          [ NOVO JOGO ]                      |
-+---------------------------------------------+
+<img width="520" height="570" alt="image" src="https://github.com/user-attachments/assets/cd89c80d-f742-45d3-bdc2-86e7c263b45f" />
+
 ```
 
 ---
